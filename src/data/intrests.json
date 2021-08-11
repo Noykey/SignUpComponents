@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "value":"marketing",
+        "name":"שיווק"
+    },
+    {
+        "id":2,
+        "value":"program-developing",
+        "name":"פיתוח תוכנה"
+    },
+    {
+        "id":3,
+        "value":"real-estate",
+        "name":"נדלן"
+    },
+    {
+        "id":4,
+        "value":"arts",
+        "name":"אומנויות"
+    },
+    {
+        "id":5,
+        "value":"soft-skills",
+        "name":"מיומנויות רכות"
+    }
+]

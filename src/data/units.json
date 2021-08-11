@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "אגוז",
+        "engName": "egoz"
+    },
+    {
+        "id": "2",
+        "name": "גולני",
+        "engName": "golani"
+    },
+    {
+        "id": "3",
+        "name": "גבעתי",
+        "engName": "givati"
+    },
+    {
+        "id": "4",
+        "name": "הגנה אוירת",
+        "engName": "hagna"
+    },
+    {
+        "id": "5",
+        "name": "צנחנים",
+        "engName": "tzanchanim"
+    }
+
+]
